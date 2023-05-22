@@ -1,0 +1,14 @@
+Repositorio local
+
+git init (Inicializa el Repositorio)
+git add (Añade archivos al staged)
+git status (Muestra el estado de los archivos)
+git commit (Guarda una versión de nuestros archivos)
+
+ Repositorio remoto
+
+ git remote (Conecta nuestro Repositorio local a la nube)
+ git clone (Clona Repositorio de la nube)
+ git push (Sube nuestros archivos al Repositorio remoto)
+ git pull (Actualiza nuestro Repositorio en base al de la nube)
+ 
